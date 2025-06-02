@@ -1,0 +1,18 @@
+{
+  "locale": "English",
+  "title": "Item Aspect Search",
+  "searchPlaceholder": "Enter item name",
+  "aspectsPlaceholder": "Enter comma-separated aspects",
+  "instructions": {
+    "title": "How to use:",
+    "item1": "Enter item name for partial match search",
+    "item2": "Specify aspects separated by commas for filtering:",
+    "example1": "<code>Fabrico, Metallum</code> - shows items containing both aspects. Partial matches like <code>Fab, met</code> work too",
+    "example2": "<code>Strict mode checked</code> - shows items with only written aspects (full name required)",
+    "item3": "Case-insensitive search - any case works"
+  },
+  "tableHeaders": {
+    "item": "Item",
+    "aspects": "Aspects"
+  }
+}
